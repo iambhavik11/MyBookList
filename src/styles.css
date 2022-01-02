@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+  max-width: 500px;
+}
+h1 {
+  margin-top: 50px;
+  text-align: center;
+  color: darkcyan;
+  font-weight: 600;
+}
+button {
+  max-width: 500px;
+}
+th {
+  text-align: center;
+}
